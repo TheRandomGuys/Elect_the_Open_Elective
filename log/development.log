@@ -362,3 +362,17 @@ Processing by HomeController#new as HTML
 Completed 200 OK in 19ms (Views: 18.0ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/home/new" for 127.0.0.1 at 2018-09-03 03:27:33 +0530
+Processing by HomeController#new as HTML
+  Rendering home/new.html.erb within layouts/application
+  Rendered home/new.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 19ms (Views: 18.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/new" for 127.0.0.1 at 2018-09-03 03:27:52 +0530
+Processing by HomeController#new as HTML
+  Rendering home/new.html.erb within layouts/application
+  Rendered home/new.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 17ms (Views: 16.0ms | ActiveRecord: 0.0ms)
+
+
